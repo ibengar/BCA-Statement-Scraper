@@ -1,0 +1,25 @@
+{
+  "name": "bca-statement-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdw1p/BCA-Statement-Scraper.git"
+  },
+  "author": "cdw1p",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdw1p/BCA-Statement-Scraper/issues"
+  },
+  "homepage": "https://github.com/cdw1p/BCA-Statement-Scraper#readme",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "html-table-to-json": "^1.0.0",
+    "html-to-text": "^8.2.1",
+    "request-promise-native": "^1.0.9"
+  }
+}
